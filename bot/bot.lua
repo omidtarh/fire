@@ -228,7 +228,7 @@ function create_config( )
       "youtube",
       "media_handler",
       "moderation"},
-    sudo_users = {FIREBOT_Support,106652030},
+    sudo_users = {firebot_admin,54213663},
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'}
   }
